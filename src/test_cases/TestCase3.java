@@ -8,4 +8,6 @@ public class TestCase3 {
 
     // third line
 
+    // forth line
+
 }
